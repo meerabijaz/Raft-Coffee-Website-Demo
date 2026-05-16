@@ -171,6 +171,12 @@ GROQ_API_KEY=your_groq_api_key_here
 
 ---
 
+## 🎥 Project Demo
+
+Watch the full project demonstration video here:  
+➡️ [Raft Coffee Website Demo](https://github.com/meerabijaz/Raft-Coffee-Website-Demo/blob/main/raft-demo_YQrctfgs.mp4)
+
+
 ## Deployment
 
 | Layer | Recommended Platforms |
