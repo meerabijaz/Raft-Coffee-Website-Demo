@@ -189,8 +189,8 @@ GROQ_API_KEY=your_groq_api_key_here
 
 ---
 ## Contributers 
-Meerab Ijaz
-Tooba Kaleem 
-Zarabee Maryam
-Atif Amir
+- Meerab Ijaz
+- Tooba Kaleem 
+- Zarabee Maryam
+- Atif Amir
 
