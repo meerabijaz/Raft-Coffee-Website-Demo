@@ -103,54 +103,7 @@ raft-coffee/
 - A [Groq API key](https://console.groq.com/)
 - A [Supabase](https://supabase.com/) project
 
----
 
-### Frontend
-
-```bash
-cd frontend
-npm install
-npm run dev
-```
-
-Runs at `http://localhost:8080`
-
----
-
-### Backend
-
-```bash
-cd backend
-
-# Create and activate virtual environment
-python -m venv venv
-venv\Scripts\activate        # Windows
-source venv/bin/activate     # macOS / Linux
-
-# Install dependencies
-pip install -r requirements.txt
-
-# Build the FAISS vector store
-python scripts/ingest.py
-
-# Start the API server
-python -m app.main
-```
-
-Runs at `http://localhost:5000`
-
----
-
-### Environment Variables
-
-Create a `.env` file inside `/backend`:
-
-```env
-PORT=5000
-GROQ_API_KEY=your_groq_api_key_here
-```
-
----
 
 ## API Reference
 
