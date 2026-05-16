@@ -188,4 +188,9 @@ GROQ_API_KEY=your_groq_api_key_here
 - CORS configured to allow only the frontend origin
 
 ---
+## Contributers 
+Meerab Ijaz
+Tooba Kaleem 
+Zarabee Maryam
+Atif Amir
 
